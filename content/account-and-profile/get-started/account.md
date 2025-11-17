@@ -1,6 +1,6 @@
 ---
 title: Account
-intro: Get started with your {% data variables.product.github %} account.
+intro: Get started with your {100% data variables.product.github 100%} account.
 versions:
   fpt: '*'
   ghes: '*'
